@@ -1,25 +1,12 @@
-# ReduxSimpleStarter
+# Redux Simple Blog
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+My first blog with react and redux. In this case i used a simple api availability in redux course on udemy.
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+API - http://reduxblog.herokuapp.com/
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/cristianmavila/reactsimpleblog.git
+> cd reactsimpleblog
 > npm install
 > npm start
 ```
